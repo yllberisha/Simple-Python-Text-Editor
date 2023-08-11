@@ -26,14 +26,14 @@ A simple text editor built using Python and the Tkinter library. This text edito
    git clone https://github.com/yllberisha/Simple-Python-Text-Editor
 Navigate to the project directory:
 
-sh
-Copy code
+```sh
 cd python-text-editor
+```
 Run the text editor:
 
-sh
-Copy code
+```sh
 python text_editor.py
+```
 Dependencies
 Python 3.x
 Tkinter (usually included with Python)
