@@ -20,10 +20,10 @@ A simple text editor built using Python and the Tkinter library. This text edito
 
 ## Getting Started
 
-1. Clone the repository:
+Clone the repository:
 
-   ```sh
-   git clone https://github.com/yllberisha/Simple-Python-Text-Editor
+```sh
+git clone https://github.com/yllberisha/Simple-Python-Text-Editor
 Navigate to the project directory:
 
 ```sh
